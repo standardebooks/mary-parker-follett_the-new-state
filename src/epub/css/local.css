@@ -29,6 +29,6 @@ header{
 
 #chapter-3-1-27 ol li:before{
 	content: "“";
-	left: 1.5em;
+	left: 4em;
 	position: absolute;
 }
