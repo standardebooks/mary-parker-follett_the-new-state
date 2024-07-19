@@ -49,9 +49,11 @@
 		<meta property="term" refines="#subject-4">sh85104370</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The social worker and management consultant Mary Parker Follett applies her theory of group organization to the political state.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The problem of democracy in a pluralistic society is investigated in this comprehensive work by the management consultant and social theorist &lt;a href="https://standardebooks.org/ebooks/mary-parker-follett"&gt;Mary Parker Follett&lt;/a&gt;. Follett contends that representative democracy has failed to allow citizens the opportunity to express their unique creativity. This goes hand in hand with a public life that is increasingly atomized and unsuited for genuine societal cooperation towards shared goals. In short, a new kind of societal organization is needed.&lt;/p&gt;
+			&lt;p&gt;Follett draws on her experience with group organization to construct a competing democratic system. It is natural for an individual to belong to many groups. Neighborhood groups, as well as social and professional groups all allow individuals to learn how to cooperate and to set and achieve goals that otherwise could not be completed. Though individuals differ in many important ways, this diversity can be a source of strength in a group: pluralism is encouraged instead of uniformity. These kind of inclusive groups can give the structure to a new way of governance; one that is creative, caring, and truly free.&lt;/p&gt;
+			&lt;p&gt;From small scale groups, an ever widening circle of larger and larger groups can be created, encompassing local, state, national and even international communities. Though certainly ambitious, Follett’s plan is meticulously crafted and persuasively argued both from an empiric and a philosophic point of view. First published in 1919 at the end of World War I, Follett’s social theories have garnered renewed interest today, especially among advocates of a more participatory democracy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73755</dc:source>
