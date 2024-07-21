@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-3-1-27.xhtml">
+	<file path="chapter-27.xhtml">
 		<ignore>
 			<code>y-019</code>
 			<reason>Opening quote is included in CSS</reason>
 		</ignore>
 	</file>
-	<file path="chapter-3-2-28.xhtml">
+	<file path="chapter-28.xhtml">
 		<ignore>
 			<code>y-022</code>
 			<reason>The two quotations appear directly after one another in the scans.</reason>
