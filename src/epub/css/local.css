@@ -29,13 +29,3 @@ header + p{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
-#chapter-27 ol li:before{
-	content: "“";
-	left: 4em;
-	position: absolute;
-}
-
-#chapter-27 ol li:last-of-type p:after{
-	content: "”";
-}
