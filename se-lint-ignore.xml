@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-27.xhtml">
-		<ignore>
-			<code>y-019</code>
-			<reason>Opening quote is included in CSS</reason>
-		</ignore>
-	</file>
 	<file path="chapter-28.xhtml">
 		<ignore>
 			<code>y-022</code>

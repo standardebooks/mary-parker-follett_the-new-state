@@ -8,8 +8,11 @@ blockquote[xml|lang]{
 
 header{
 	font-variant: small-caps;
-	margin: 1em;
-	text-align: center;
+	margin-top: 3em;
+}
+
+header + p{
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:verse"] p{
@@ -27,13 +30,12 @@ header{
 	display: none;
 }
 
-#chapter-3-1-27 ol li:before{
+#chapter-27 ol li:before{
 	content: "“";
 	left: 4em;
 	position: absolute;
 }
 
-/* chapters 24-26 subtitles are in italics */
-hgroup > p:nth-of-type(2) {
-	font-style:italic;
+#chapter-27 ol li:last-of-type p:after{
+	content: "”";
 }
