@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-28.xhtml">
 		<ignore code="y-022">
+			<line>35</line>
 			<reason>The two quotations appear directly after one another in the scans.</reason>
 		</ignore>
 	</file>
